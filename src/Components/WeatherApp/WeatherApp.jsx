@@ -99,6 +99,10 @@ const WeatherApp = () => {
                     </div>
                 </div>
             </div>
+            <div className="footer">
+            <span> Made with ❤️ Tanushka. &#169;All rights reserved</span>
+            </div>
+           
         </div>
     )
 }
